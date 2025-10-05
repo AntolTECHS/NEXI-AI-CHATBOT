@@ -18,7 +18,7 @@ Nexi AI Chatbot is a full-stack AI-powered chat assistant built with React, Node
 
 
 🏗️ Project Structure
-
+```
 NEXI-AI-CHATBOT/
 │
 ├── backend/              # Express server and OpenAI API integration
